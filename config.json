@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspalculate",
+        "uuid": 34273800,
+        "checksum": "cjw33b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
